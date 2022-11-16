@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\Fnick\OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey\3er S\C++ projects\Act 2.2\PriorityQueue.h(125): warning C4715: 'PriorityQueue<int>::Peek': not all control paths return a value
+C:\Users\Fnick\OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey\3er S\C++ projects\Act 2.2\Stack.h(91): warning C4715: 'Stack<int>::Peek': not all control paths return a value
+  Act 2.2.vcxproj -> C:\Users\Fnick\OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey\3er S\C++ projects\Act 2.2\x64\Debug\Act 2.2.exe

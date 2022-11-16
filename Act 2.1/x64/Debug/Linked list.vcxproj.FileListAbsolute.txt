@@ -1,0 +1,2 @@
+C:\Users\Fnick\Documents\C++ projects\Linked list\x64\Debug\Linked list.exe
+C:\Users\Fnick\Documents\C++ projects\Act_2.1\x64\Debug\Linked list.exe
