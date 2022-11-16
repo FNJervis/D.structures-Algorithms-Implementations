@@ -1,0 +1,7 @@
+﻿  Act_1.2.cpp
+C:\Users\Fnick\Documents\C++ projects\Act 1.2\Act_1.2.cpp(74,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Fnick\Documents\C++ projects\Act 1.2\Act_1.2.cpp(168,36): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Fnick\Documents\C++ projects\Act 1.2\Act_1.2.cpp(180,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Fnick\Documents\C++ projects\Act 1.2\Act_1.2.cpp(184,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Fnick\Documents\C++ projects\Act 1.2\Act_1.2.cpp(188,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Act 1.2.vcxproj -> C:\Users\Fnick\Documents\C++ projects\Act 1.2\x64\Debug\Act 1.2.exe

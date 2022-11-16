@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Fnick\Documents\C++ projects\Act_1.3\Source.cpp(130,32): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  bitacora.cpp
+  Generating Code...
+  Act_1.3.vcxproj -> C:\Users\Fnick\Documents\C++ projects\Act_1.3\x64\Debug\Act_1.3.exe
